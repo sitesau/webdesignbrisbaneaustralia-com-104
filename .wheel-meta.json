@@ -1,0 +1,19 @@
+{
+  "wheel_id": 333,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-com-104",
+  "project": "web-design-services-brisbane-costs-21f7044fa4a33a48393abe32d7da",
+  "parent_t1_ref": "webdesignbrisbaneaustralia-com-151",
+  "node_role": "feeder",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design services brisbane costs",
+  "intended_url": "http://web-design-services-brisbane-costs-21f7044fa4a33a48393abe32d7da.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "f82cb5ed469558ab",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/web-design-services-brisbane-89faf704af1b67cffe4b55ad6b36deafb9/",
+      "anchor": "web design services brisbane",
+      "rel": "follow"
+    }
+  ]
+}
